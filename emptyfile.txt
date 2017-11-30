@@ -1,0 +1,12 @@
+(6) Another experiment would be to add some other command to the script file, such as ps (which shows the processes currently on the system), pwd (which shows the current directory), uname (which provides basic information about a system's software and hardware) or df (which shows disk space usage). (Notice that these and other commands can be used in the script with any appropriate options and/or arguments.)
+
+
+(6) Another experiment would be to add some other command to the script file, such as ps (which shows the processes currently on the system), pwd (which shows the current directory), uname (which provides basic information about a system's software and hardware) or df (which shows disk space usage). (Notice that these and other commands can be used in the script with any appropriate options and/or arguments.)
+
+
+(6) Another experiment would be to add some other command to the script file, such as ps (which shows the processes currently on the system), pwd (which shows the current directory), uname (which provides basic information about a system's software and hardware) or df (which shows disk space usage). (Notice that these and other commands can be used in the script with any appropriate options and/or arguments.)
+
+
+
+
+
